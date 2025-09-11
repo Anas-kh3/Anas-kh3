@@ -67,9 +67,21 @@ I’m passionate about turning raw data into actionable insights and building in
 
 ## ✍️ Latest Updates  
 
-- 🔥 Built a **chatbot for project tracking** during my internship at Capgemini engineering
+<table>
+<tr>
+<td>
+
+- 🔥 Built a **chatbot for project tracking** during my internship at Capgemini Engineering  
 - 📊 Automated **KPI dashboards** using React.js + Django  
 - 🤝 Improved collaboration by integrating **Microsoft 365 APIs**  
+
+</td>
+<td>
+  <img src="https://camo.githubusercontent.com/b51cf5fab51f28050eb345bc5fae0fc4597e05544cf61d6fd979dd6de25579f2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323334343830312f73637265656e73686f74732f343737343537382f616c70686174657374657273616e696d6174696f6e322e6769663f7261773d74727565" width="300"/>
+</td>
+</tr>
+</table>
+
 
 ---
 ## 📊 Most Used Languages
