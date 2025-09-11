@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Anas Khalil  
 
-<!--
-**Anas-kh3/Anas-kh3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 I'm a **Data Engineer** with expertise in **Big Data and Artificial Intelligence (AI)**.  
+I’m passionate about turning raw data into actionable insights and building intelligent systems that improve decision-making.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tools  
+
+- **Programming & Data**: Python, SQL, Java, Spark  
+- **Data Engineering**: ETL Pipelines, Data Warehousing, Big Data Processing  
+- **Machine Learning & AI**: Scikit-learn, TensorFlow, NLP, Predictive Modeling  
+- **Web & Apps**: Django REST, React.js, Flask  
+- **Cloud & DevOps**: Git, Docker, Microsoft Azure  
+
+---
+
+## 🚀 Featured Projects  
+
+- 🤖 **Capgemini Engineering Internship Project** *(private repo)*  
+  Developed an **intelligent web application** with:  
+  - RAG-based chatbot for project assistance  
+  - Dynamic KPI dashboards (Excel → React.js + Django REST)  
+  - Microsoft 365 integration (SharePoint, Planner, Graph API)  
+
+- 🌐 **Web Development Internship – SGPTV (Société de Gestion du Port de Tanger Ville)** *(private repo)*  
+  Designed and developed a **web tool to promote tourism** at Tanger Ville Port:  
+  - Defined system architecture and technology stack  
+  - Built the frontend interface and backend logic  
+  - Ensured website **maintenance, security, and reliability**:contentReference[oaicite:0]{index=0}  
+
+- 📊 [Orange-Telecom-Dealer-Prediction](https://github.com/Anas-kh3/Orange-Telecom-Dealer-Prediction)  
+  Predictive model for stock breaks at Orange Telecom using Machine Learning.  
+
+- 🚗 [Car-Rental-Project](https://github.com/Anas-kh3/Car-Rental-Project)  
+  Desktop application for renting cars, built with **Java Swing & SQL**.  
+
+ 
+
+---
+
+## ✍️ Latest Updates  
+
+- 🔥 Built a **chatbot for project tracking** during my internship at Capgemini engineering
+- 📊 Automated **KPI dashboards** using React.js + Django  
+- 🤝 Improved collaboration by integrating **Microsoft 365 APIs**  
+
+---
+
+## 🌍 Connect with Me  
+
+- [LinkedIn](https://www.linkedin.com/in/anas-khalil-22a878249/)  
+- 📧 Email: khalilanas848@gmail.com  
+
+---
+
+⭐️ *"Data is the new oil, but only when refined into insights."*  
