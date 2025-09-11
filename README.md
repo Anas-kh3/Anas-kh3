@@ -53,5 +53,8 @@ I’m passionate about turning raw data into actionable insights and building in
 - 📧 Email: khalilanas848@gmail.com  
 
 ---
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Anas-kh3&theme=darkhub&no-frame=true&margin-w=15)
+
 
 ⭐️ *"Data is the new oil, but only when refined into insights."*  
