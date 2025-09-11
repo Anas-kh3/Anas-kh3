@@ -46,7 +46,10 @@ I’m passionate about turning raw data into actionable insights and building in
 - 🤝 Improved collaboration by integrating **Microsoft 365 APIs**  
 
 ---
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-kh3&layout=compact&theme=tokyonight)
 
+---
 ## 🌍 Connect with Me  
 
 - [LinkedIn](https://www.linkedin.com/in/anas-khalil-22a878249/)  
