@@ -58,6 +58,9 @@ I’m passionate about turning raw data into actionable insights and building in
 ---
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anas-kh3&theme=darkhub&no-frame=true&margin-w=15)
-
+---
+## 🏅 GitHub Achievements
+Check out my [GitHub Achievements](https://github.com/Anas-kh3) 🦈⭐❄️
+---
 
 ⭐️ *"Data is the new oil, but only when refined into insights."*  
