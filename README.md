@@ -61,7 +61,12 @@ I’m passionate about turning raw data into actionable insights and building in
 - 🚗 [Car-Rental-Project](https://github.com/Anas-kh3/Car-Rental-Project)  
   Desktop application for renting cars, built with **Java Swing & SQL**.  
 
- 
+---
+## 📝 Blog Articles  
+
+- 🚀 [Retrieval-Augmented Generation (RAG): The Future of Data Science and AI](https://github.com/Anas-kh3/data-science-articles/blob/main/RAG.md)  
+- 📊 Coming soon: *MLOps Made Simple for Data Scientists*  
+- 🤖 Coming soon: *AI in Business: From Data to Decisions*  
 
 ---
 
