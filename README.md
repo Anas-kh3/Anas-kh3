@@ -92,10 +92,10 @@ I’m passionate about turning raw data into actionable insights and building in
 
 ---
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anas-kh3&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-iota-six-51.vercel.app/api/top-langs/?username=Anas-kh3&layout=compact&theme=tokyonight)
 ---
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Anas-kh3&theme=darkhub&no-frame=true&margin-w=15)
+![GitHub Stats](https://github-readme-stats-iota-six-51.vercel.app/api?username=Anas-kh3&show_icons=true&theme=tokyonight)
 ---
 ## 🏅 GitHub Achievements
 Check out my [GitHub Achievements](https://github.com/Anas-kh3) 🦈⭐❄️
