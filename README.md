@@ -92,8 +92,7 @@ I’m passionate about turning raw data into actionable insights and building in
 
 ---
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anas-kh3&layout=compact&theme=tokyonight&cache_seconds=86400)
-
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Anas-kh3&layout=compact&theme=tokyonight)
 ---
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Anas-kh3&theme=darkhub&no-frame=true&margin-w=15)
